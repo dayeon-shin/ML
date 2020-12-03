@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "springsaturday",
+  "private_key_id": "d6504b76ac7603f9581a0e0952b4e1d48a145953",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDN+nhwJy6JShep\nXjORipgqV95sQqDuyrb2OiYNL2tTRZll0aZGWfZVo0NET0LK8sZ7wYhnyCIRM5t1\npmOzQ9HvHvQbgOeJlQcEadGgVujGUmL9OQUWktLXiRt25KFknciKIPd6m1pUFHzH\nKH+G0+H0peuHJ9AmdcxGV8D9X28jeDaEsiKyJjfpuh+1FEpw570fdmU9tbK3mg4u\nG4tNP6RKkXHgbJ/JCm96hKAFBd9Jq2p49HbEQ6MZP2V8OVPyxSSUbyQPuCt2HpLn\n7q8Y8xlV1niaQz0F4F+TTKDyPEjnIQqrWqje8DhmhWI+Pukh2YT0UrUdEHcVmGBj\n6j8reVWvAgMBAAECggEACV4VQSB/DM5aUiEPHlTbw704R9sl34ZHmN4fIeVgr6pQ\nJiHJOpTXz6A7rG0gYAN3hGRSVEn1Rqv+q3SUPzBb6VCSkHel0At/hLNdTbn2HyLb\nDqIbuaGWxiedoKQYNO+6EZIbPy+2hXFjFVmhpxuWwJ4VHpHwdPdRgXd3Nu6yqr21\ndBtCSD0G9B6nHsxbMmmpPQ4eceuCKdHYh/VdTKxq22c8Bl39/ZNqD/cAXC0FqMOu\nN/ZQNcwQbN64ZZVUaWY2vn6Cm5Bx7pL45I1756GyR5+fgS/A/5Gotm2sWrv6IO3Q\nd8a+k0aK4MbvmX+puWgXWEsTzMnSH3A+lMuv4jsosQKBgQDr3r4m0pmzci+SWfFt\np7Rax+02eiYAFqVseC6XcIf6rSYvCnLfWacImMm3IefHSm/uNZAw6l5Vekep/IV+\nB6fpVUIQZD7R4ckVI8SmG7u0IgXvXYR83aMq+KPyvL4uGT7alEN5wZdmSNexxyeY\nkQPBL7sQVJSIq0MDBb9IeH9+fwKBgQDfjqh+pLrA7AtIeaE1niNlM2NC8fJhTdrK\nhqa2yjtq7e89X3yTrgLvB8ZOLl5l1Um+sCuyy5I6FhY+dR5MeN4WuZe+2G8LEqVU\nlD9MBIIr7ZtFsyrfTuB2Fsg4rJiHNSFTujk1ugDPxPfpB8vA/e7ozBJU9Voj/U4w\n6lzk7TTw0QKBgQDHZqsCTxA5L9MfuoHr3dcO1+2mHGV7talrpb5dsHiEZ1Tcd8zd\nHQGktuXwt+0mAbvWednIQJo3UQS8pAqGnRpKnBUZnmWtMV+5S1+3vcJVal3yGfEj\nTovejAyt7PoqJpWIW8cfa5X+lp4iYOcMh6vQ6fUOvTJEx+QC7hzju1qtKQKBgF/w\nW/UFgrPaWLlAoWNeOzhqBjYrmOYTQErb4F3figJIm/wNp2vFKLMl9f+FPLOdBenU\nttwjKtzMr70cC+WrlTvRaALZ5UWuOc+DU2qvIKHzdUhDLKnqsr9a5ZAU2dxke6nv\n6C9bZI/FqtKRqupmz4mOUmutY4LAaTbqzPTdq3ORAoGAEUkHxbSG+8f1pcHtIEE/\nDPwh3m/7c4Ek0JaDZ//m2t+b+nJ1KTOUAsgVIf77HEG0XElyMsyUQpGCo6ISkFWO\nWCSZGB4qUUAaHKeRIGtqG6e40+VPXGzmXuM4S71Wq3j2fiRAd4LjXyHv4ArtAACz\nmnZ0yipDsCVvPF4f+hTUhzQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kpc-ai-service@springsaturday.iam.gserviceaccount.com",
+  "client_id": "115918184993896973603",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kpc-ai-service%40springsaturday.iam.gserviceaccount.com"
+}
