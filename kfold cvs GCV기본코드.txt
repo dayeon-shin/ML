@@ -1,0 +1,57 @@
+X = df.drop(['target'], axis=1)
+y = df['target']
+X_train,X_test, y_train, y_test 
+  =train_test_split(X, y, test_szie=0.3, random=11)
+
+************************************************
+model = _______()
+...
+...
+...
+...
+
+model.fit(X_train,y_train)
+pred = model.predict(X_test)  (59*10)
+-- RSS(Y-Y)^2 :  mse rmse r2 ... msle rmsle mae
+mse = mean_squared_error(y_test, pred)
+
+
+
+
+
+-------------------------평가검증 ::: 가중치 w(회귀계수)
+kf = KFold(n_splits = 5)      ..  X, y
+sk=      S.K  = sk.split(X, y)
+mse_list = []
+for train_idx, test_idx in kf.split(X)
+     X_test,  y_test = X[test_idx], y[test_idx]      #0 ~19 / 20~39
+     X_train, y_train = X[train_idx], y[train_idx]  #20~99
+    
+   for i in range(10)   
+       #이하동일
+       model = DecisionTree(max_dept=i)
+       model.fit(X_train,y_train)
+       pred = model.predict(X_test)  (59*10)
+       mse = mean_squared_error(y_test, pred)
+       mse_list.apped(mse)
+print(mse_list)  [54, 53, 61, 74, 43]
+print(np.mean(mse_list)  59
+print(model.coef_) [3.4 -2.1 3.6 8.9 17.3 ....]
+                         
+# [-54, -53, -61, -74, -43]
+5score = cross_val_score(cv=kf또는5, X, y, scoring="neg_m..s.e" ) 
+print(np.mean(5score) * -1)
+
+
+
+mydict = {'max_depth':[0,2,3,4,5],
+              'min_samples_leaf':'[2,6]'}
+5score = GridSearchCV(cv=kf또는5, X, y, scoring="neg_m..s.e"
+                  , param_grid=mydict)
+print(np.mean(5score) * -1)
+
+
+
+
+230000 * 50 * 56 * 
+
